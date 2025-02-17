@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: restful-webservice
+
+logging:
+  level:
+    org.springframework: INFO
+
